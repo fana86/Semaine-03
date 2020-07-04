@@ -1,4 +1,4 @@
-// Exercice 1: ajoute "Ted" au tableau suivant
+console.log(castArray.push("Ted"));
 
 let castArray= ["Robin", "Barney", "Lily", "Marshal"];
 
@@ -21,3 +21,4 @@ let castArray= ["Robin", "Barney", "Lily", "Marshal"];
 // Exercice 10: à l'aide d'une boucle, multiplie par 2 chaque élément du tableau suivant, crée un nouveau tableau à l'aide de la méthode .push(), affiche le nouveau tableau dans la console
 
 let multiplicationArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let newArray=["robin";"barney";"marshal";"ted"];
