@@ -38,7 +38,7 @@ span {
 
 /* EXERCICE 2 */
 /* Vous aurez besoin du pseudo-sélecteur "last-child". Faites une petite recherche Google. */
-section {
+/*section {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -54,4 +54,4 @@ div {
 }
 div:last-child {
   height: 100%;
-}
+}*/
